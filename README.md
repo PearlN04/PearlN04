@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**PearlN04/PearlN04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I’m Pheliswa — passionate about crafting clean, efficient code 💻⭐  
 Focused on building solutions that address real-world problems with precision and quality ✨  
 
@@ -12,4 +10,4 @@ Focused on building solutions that address real-world problems with precision an
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pheliswa-nontsanga-89036b231/) 
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I believe clean code is a form of art  
--->
+
