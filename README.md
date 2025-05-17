@@ -7,6 +7,6 @@ Focused on building solutions that address real-world problems with precision an
 - 🌱 I’m continuously learning new technologies and best coding practices  
 - 👯 I’m open to collaborating on meaningful projects  
 - 💬 Ask me about coding, software development,cybersecurity and problem-solving  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pheliswa-nontsanga-89036b231/) 
+- 📫 How to reach me: (https://www.linkedin.com/in/pheliswa-nontsanga-89036b231/) 
 - ⚡ Fun fact: I love rugby
 
