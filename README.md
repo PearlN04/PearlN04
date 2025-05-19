@@ -11,7 +11,10 @@ I’m Pheliswa, but you can call me Pearl✨ - I’m passionate about writing cl
 
 ### 📈 GitHub Stats
 
-![Pheliswa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PearlN04&show_icons=true&theme=vue&hide=issues&hide_border=true)
+<div style="display: flex; gap: 20px; align-items: center;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PearlN04&layout=pie&theme=vue" width="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PearlN04&layout=pie&theme=vue&size_weight=0.5&count_weight=0.5" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PearlN04&show_icons=true&theme=vue&hide=issues&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PearlN04&layout=pie&theme=vue&size_weight=0.5&count_weight=0.5" width="300" />
+
+</div>
