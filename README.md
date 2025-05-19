@@ -9,4 +9,9 @@ I’m Pheliswa, but you can call me Pearl✨ - I’m passionate about writing cl
 - 📫 How to reach me: (https://www.linkedin.com/in/pheliswa-nontsanga-89036b231/) 
 - ⚡ Fun fact: I’m a techie who loves rugby - just like code, it’s all about strategy and teamwork!
 
+### 📈 GitHub Stats
+
+![Pheliswa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PearlN04&show_icons=true&theme=vue&hide=issues&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PearlN04&layout=pie&theme=vue" width="300"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PearlN04&layout=pie&theme=vue&size_weight=0.5&count_weight=0.5" width="300" />
