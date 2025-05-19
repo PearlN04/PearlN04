@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi , I'm Pheliswa 👋
 
-I’m Pheliswa, but you can call me Pearl✨ - I’m passionate about writing clean, efficient code and building real-world solutions that make a difference. Whether it’s through full-stack development or cybersecurity-focused projects, I strive to deliver work that is purposeful, impactful, and high quality.💻⭐  
+I’m passionate about writing clean, efficient code and building real-world solutions that make a difference. Whether it’s through full-stack development or cybersecurity-focused projects, I strive to deliver work that is purposeful, impactful, and high quality.💻⭐  
 
 - 🔭 I’m currently working on building real-world, full-stack applications focused on solving real world using technologies like Java Spring Boot, React, and SQL and applying machine learning to real datasets to uncover insights and support smarter, data-driven decisions in competitive challenges
 - 🌱 I’m continuously learning new technologies and best coding practices  
@@ -11,7 +11,7 @@ I’m Pheliswa, but you can call me Pearl✨ - I’m passionate about writing cl
   
 ### 💻 Tech Stack
 
-<div align="center">
+<div>
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
@@ -30,6 +30,7 @@ I’m Pheliswa, but you can call me Pearl✨ - I’m passionate about writing cl
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 
 </div>
+
 ### 📈 Languages and GitHub Stats
 
 <div style="display: flex; gap: 20px; align-items: center;">
