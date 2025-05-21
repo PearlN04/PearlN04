@@ -6,7 +6,7 @@ I’m passionate about writing clean, efficient code and building real-world sol
 - 🌱 I’m continuously learning new technologies and best coding practices  
 - 👯 I’m open to collaborating on meaningful projects  
 - 💬 Ask me about coding, software development,cybersecurity and problem-solving  
-- 📫 How to reach me: (https://www.linkedin.com/in/pheliswa-nontsanga-89036b231/) 
+- 📫 How to reach me: nontsangaphelisa@gmail.com 
 - ⚡ Fun fact: I’m a techie who loves rugby - just like code, it’s all about strategy and teamwork!
   
 ### 💻 Tech Stack
