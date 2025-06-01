@@ -1,6 +1,6 @@
 ## Hi , I'm Pheliswa 👋
 
-- a software developer who loves building elegant, high-impact solutions.I write clean, efficient code and enjoy turning complex problems into thoughtful, real-world applications.
+A software developer who loves building elegant, high-impact solutions.I write clean, efficient code and enjoy turning complex problems into thoughtful, real-world applications.
 From intelligent recommendation systems to systems that support education and finance, I focus on crafting work that is meaningful, well-engineered, and user-centered.
 
 - 👯 I’m open to collaborating on meaningful projects. 
