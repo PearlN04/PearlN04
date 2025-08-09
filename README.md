@@ -4,7 +4,7 @@ A software developer who loves building elegant, high-impact solutions.I write c
 From intelligent recommendation systems to systems that support education and finance, I focus on crafting work that is meaningful, well-engineered, and user-centered.
 
 - 👯 I’m open to collaborating on meaningful projects. 
-- 🌱 I’m continuously learning new technologies and best coding practices  
+- 🌱 I’m continuously learning new technologies and best coding practices. 
 - 💬 Ask me about coding, software development,cybersecurity and machine learning. 
 - ⚡ Fun fact: I’m a techie who loves rugby - just like code, it’s all about strategy and teamwork!
   
